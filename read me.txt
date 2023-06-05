@@ -1,0 +1,3 @@
+How to Use
+- Ubah Konfigurasi di file config.php
+- RewriteBase di .htaccess di folder public
